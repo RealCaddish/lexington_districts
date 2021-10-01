@@ -25,3 +25,11 @@ data/Council_District_1982-shp.zip
 data/Council_District_1992-shp.zip
 data/Council_District_2002-shp.zip
 data/Council_District_2012-shp.zip
+
+lexingtonDistricts.qgz
+
+
+data/clean_data/clean_data.shx
+data/clean_data/clean_data.prj
+data/clean_data/clean_data.dbf
+data/clean_data/clean_data.cpg
